@@ -47,6 +47,7 @@ class LoginPage extends StatelessWidget {
                 'register',
                 onPressed: () {
                   //todo
+                  
                 },
               ),
             ],
